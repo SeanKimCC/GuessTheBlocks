@@ -4,8 +4,9 @@
     '##################### GUESS THE BLOCKS ###########################'
     '#################################################### SEAN KIM ####'
     '##################################################################'
+    
     Dim RC, BC, GC, YC As Integer
-
+    
     Dim R As Color = Color.Red
     Dim G As Color = Color.Green
     Dim B As Color = Color.Blue
